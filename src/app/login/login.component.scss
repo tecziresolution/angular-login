@@ -1,0 +1,16 @@
+.has-error input[type="email"],
+.has-error input[type="password"] {
+    border-color: rgb(216, 12, 12);
+    color: rgb(230, 14, 14);
+}
+.login.container {
+    height: 500px;
+}
+.pad-15{
+    margin-top: 35px;
+}
+.page-name {
+    padding: 5px;
+    background-color: #f5f4f4;
+    padding-left: 31px;
+}
